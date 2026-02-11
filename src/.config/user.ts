@@ -21,6 +21,6 @@ export const userConfig: Partial<UserConfig> = {
   },
   appearance: {
     theme: 'light',
-  }
+  },
   // seo: { twitter: "@moeyua13" },
 }
