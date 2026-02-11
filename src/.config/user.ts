@@ -15,8 +15,7 @@ export const userConfig: Partial<UserConfig> = {
             {
               name: 'email',
               href: 'mailto:yu_xue@me.com'
-            }
-
+            },
           ],
           categoryMap: [{name :'表世界', path:'surface'}],
   },
